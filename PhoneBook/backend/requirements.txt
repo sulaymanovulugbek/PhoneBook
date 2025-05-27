@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+ldap3
+apscheduler
+python-dotenv
+pydantic
